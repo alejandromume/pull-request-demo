@@ -41,7 +41,7 @@ const colaboradores = [
     {nombre: "Martin Echavez", twitter: "@martinEchavez"},
     {nombre: "Cesar L", instagram: "@Charlotporelmundo"},
     {nombre: "Emilio Rafael", instagram: "@emilio4585"},
-    {nombre: "Fausto Montes", twitter: "@30Fausto"},
+    {nombre: "Test", twitter: "Test"},
     {nombre: "Jorge Cruz", twitter:"@IDon'tHave"}
 ];
 
